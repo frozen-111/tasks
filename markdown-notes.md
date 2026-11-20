@@ -1,5 +1,10 @@
 # Markdown 学习笔记
 Markdown 是轻量级标记语言，语法简单，专门用来写文档，GitHub 的 README 就是用它写的。（**注意空格，换行均会影响效果，打完预览里进行检查**）
+ - 学习参考：[请叫我AXin快速掌握markdown](https://b23.tv/9fE9NUE)
+ - [毛怪的学习日记markdown入门使用教学](https://b23.tv/5flCWcc)
+
+## 基本概念
+Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。使用Markdown 编写的文档可以轻松地导出为 HTML、Word、图像、PDF、Epub 等多种格式的文档。当前许多网站都支持使用 Markdown 来撰写文档或者发表文章。例如：GitHub、简书、StackOverflow、有道云笔记等等。
 
 ## 一、标题
 一共六级，# 的数量代表级别
@@ -12,8 +17,14 @@ Markdown 是轻量级标记语言，语法简单，专门用来写文档，GitHu
 
 ## 二、文本样式
 **加粗**
+
 *斜体*
+
 ***加粗斜体***
+
+~~删除线~~
+
+<u>下划线</u>
 
 ## 三、列表
 - 无序列表第一条
@@ -47,3 +58,12 @@ int main()
     printf("Hello world\n");
     return 0;
 }
+```
+
+## 八、图片
+- 使用图床保存图片并实现插入
+  [路过图床]: https://imgse.com/
+- 使用markdown语法插入
+[![pFZHwAe.jpg](https://s11.ax1x.com/2024/01/23/pFZHwAe.jpg)](https://imgse.com/i/pFZHwAe)
+- 使用html语言实现调整图片大小和位置功能
+<a href="https://imgse.com/i/pFZHwAe"><div align=center><img src="https://s11.ax1x.com/2024/01/23/pFZHwAe.jpg" alt="pFZHwAe.jpg" border="0" width="80%" height="60%"/></div></a>
