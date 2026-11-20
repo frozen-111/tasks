@@ -1,5 +1,8 @@
 # Git & GitHub 学习笔记
- - 内容来源：[技术爬爬虾Git+Github核心概念大串讲](https://www.bilibili.com/video/BV1ySLc6QEcB?vd_source=eb8cf482f11927ebcf85fbab806d25b3);[知乎用户](https://zhuanlan.zhihu.com/p/2101269526688150900)[偶尔有点小迷糊GitHub基础教程](https://b23.tv/mSruF81)
+  内容来源：
+ - [技术爬爬虾Git+Github核心概念大串讲](https://www.bilibili.com/video/BV1ySLc6QEcB?vd_source=eb8cf482f11927ebcf85fbab806d25b3)
+ - [知乎用户](https://zhuanlan.zhihu.com/p/2101269526688150900)
+ - [偶尔有点小迷糊GitHub基础教程](https://b23.tv/mSruF81)
 
 ## 一、基础概念
 GitHub 会自动读取 README 文件，展示在仓库首页。
