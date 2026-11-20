@@ -65,5 +65,3 @@ int main()
   [路过图床]: https://imgse.com/
 - 使用markdown语法插入
 [![pFZHwAe.jpg](https://s11.ax1x.com/2024/01/23/pFZHwAe.jpg)](https://imgse.com/i/pFZHwAe)
-- 使用html语言实现调整图片大小和位置功能
-<a href="https://imgse.com/i/pFZHwAe"><div align=center><img src="https://s11.ax1x.com/2024/01/23/pFZHwAe.jpg" alt="pFZHwAe.jpg" border="0" width="80%" height="60%"/></div></a>
