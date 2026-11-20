@@ -1,5 +1,5 @@
 # Git & GitHub 学习笔记
- - 内容来源：[技术爬爬虾Git+Github核心概念大串讲](https://www.bilibili.com/video/BV1ySLc6QEcB?vd_source=eb8cf482f11927ebcf85fbab806d25b3);[知乎用户](https://zhuanlan.zhihu.com/p/2101269526688150900)
+ - 内容来源：[技术爬爬虾Git+Github核心概念大串讲](https://www.bilibili.com/video/BV1ySLc6QEcB?vd_source=eb8cf482f11927ebcf85fbab806d25b3);[知乎用户](https://zhuanlan.zhihu.com/p/2101269526688150900)[偶尔有点小迷糊GitHub基础教程](https://b23.tv/mSruF81)
 
 ## 一、基础概念
 GitHub 会自动读取 README 文件，展示在仓库首页。
@@ -86,3 +86,8 @@ Codespace：内置运行调试环境，点运行调试 → 继续工作 → `cre
 
 ## 文档规范方面的认识
 我认为我的文档在，结构分层的方面上，具备了重点标出和层次分明的特点；排版上，算得上整洁，利用了分区的方法来分开知识点；内容上，暂时不够丰富完美，日后需精进，专有名词的理解还需加强记忆；还有链接索引，一开始没有构建起这方面的意识，在mentor的悉心提醒下，更正并且提供出准确有效的跳转链接，望好的方面继续保持，不足之处，有意识去改正。
+ - eg:# Markdown 学习笔记
+1. 大小标题的排布合理：使用 `#`，`#` 
+2. 列表规范，统一排序：有序列表统一用 `1.`，不要混用 `1、`
+3. 运用强调，重点标出：加粗 `**文字**`，标记成对
+4. 运用了链接格式：`[显示文字](url)`
