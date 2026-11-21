@@ -1,4 +1,4 @@
-# Git & GitHub 学习笔记
+# GitHub 学习笔记
   内容来源：
  - [技术爬爬虾Git+Github核心概念大串讲](https://www.bilibili.com/video/BV1ySLc6QEcB?vd_source=eb8cf482f11927ebcf85fbab806d25b3)
  - [知乎用户](https://zhuanlan.zhihu.com/p/2101269526688150900)
