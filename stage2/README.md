@@ -5,7 +5,6 @@
   
 - [问题解决记录](https://github.com/frozen-111/tasks/blob/747271fd7cd418a85d4506f6ec1e6cd68b41a180/trouble.md)
 
-- [Your other thoughts](https://github.com/frozen-111/tasks/blob/1a3f62d1a5d3913570ed2d3f3cfb58b3385e6efd/other-thoughts.md)
-
+- [Your other thoughts](https://github.com/frozen-111/tasks/blob/c4b837703b1e3906f6a5866b91014576e8f3cd1c/stage2/other-thoughts.md)
 - [hello.md](https://github.com/frozen-111/frozen-111/blob/27a7537a9958820b339126a29f90d9f84195d8a4/hello.md)
   - 练习传送
