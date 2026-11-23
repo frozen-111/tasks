@@ -1,5 +1,5 @@
 # 阶段二 索引目录
-- [Git学习笔记](https://github.com/frozen-111/frozen-111/blob/06f9a37def19da1e1d4852590094e67a5d156894/git%E7%AC%94%E8%AE%B0.md)
+- [Git学习笔记](https://github.com/frozen-111/tasks/blob/cb1ae71d5436be24f2244ddb15204eafa06fdc5f/stage2/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
  
 - [Git提交练习文档](https://github.com/frozen-111/tasks/blob/b04d125c4666dadf9ce59d2a9a28c4877d5d21c8/Git-commit.md)
   
