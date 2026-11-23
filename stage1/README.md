@@ -5,4 +5,4 @@
   
 - [Markdown 练习文档](https://github.com/frozen-111/tasks/blob/0272e492ce9238ab8a62104f1f86025432636743/markdown-practice.md)
   
-- [问题解决记录](https://github.com/frozen-111/tasks/blob/747271fd7cd418a85d4506f6ec1e6cd68b41a180/trouble.md)
+- [问题解决记录](https://github.com/frozen-111/tasks/blob/e8b16e5107dbb0b89f3df9f4a93c4a15d18edbac/stage1/trouble1.md)
