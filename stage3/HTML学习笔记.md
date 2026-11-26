@@ -107,3 +107,32 @@ HTML 文档由一系列 HTML 元素（Element）构成，是网页结构的基�
 
 ## 什么是 HTML 元素？
 HTML 元素是从开始标签（start tag）到结束标签（end tag）之间的完整结构。
+<img width="644" height="128" alt="904906c7c565db93fe589194a574a3d8" src="https://github.com/user-attachments/assets/7fed1eac-2fb6-4423-802e-5bc9b1477ead" />
+
+开始标签也称为 起始标签（opening tag）
+结束标签也称为 闭合标签（closing tag）
+
+## HTML 元素语法规则
+1. 元素以开始标签开始，以结束标签结束
+2. 元素内容位于开始标签与结束标签之间
+3. 部分元素为**空元素**（empty element），没有内容
+4. 空元素通常在开始标签中自闭合（如 <br />）
+5. 大多数元素可以包含**属性**（Attributes）
+
+## HTML 元素的嵌套
+HTML 元素可以相互嵌套，形成树状结构：
+一个元素可以包含其他元素
+HTML 文档本质上是一个嵌套结构（DOM 树）
+
+## HTML 文档示例
+```html
+<!DOCTYPE html>
+<html>
+
+  <body>
+    <p>这是第一个段落。</p>
+  </body>
+
+</html>
+```
+该示例包含 3 个核心元素：html、body、p。
